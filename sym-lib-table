@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name knopkop)(type Legacy)(uri ${KIPRJMOD}/knopkop.lib)(options "")(descr ""))
+  (lib (name foostan)(type Legacy)(uri /home/thys/keyboards/stoutgatv2/kbd.lib)(options "")(descr ""))
+)
