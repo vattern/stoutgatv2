@@ -9,14 +9,17 @@ If you are using 3 pin switches and a fingerlonger, do not install D31 (by the I
 Also note , D31 faces opposite to all the rest of the diodes. Save your diode legs for installing the Blackpill.
 
 **ISO Steps**
+
 4) Choose your layout, and start populating switches from the top downwards , leave the enter key till last as it will interfere if you are using a fingerlonger.
 Populate SW49 and SW50 in the left Shift positions, and SW45 on the right.
-For spacebars, only SW71 is supported right now in the 6.25u position. (The stab holes for 7u went AWOL)
-For stepped CAPS , populate SW73
+
 
 
 **ANSI**
-4) SW46 is left shift and SW70 is Enter. For stepped CAPS , populate SW73
+4) SW46 is left shift and SW70 is Enter. 
+
+For spacebars, only SW71 is supported right now in the 6.25u position. (The stab holes for 7u went AWOL)
+For stepped CAPS , populate SW73
 
 5) Place your stabs
 6) Place your encoder(s) if any. The two positions on the left of the board are shared for rotation, so only install in one of them
