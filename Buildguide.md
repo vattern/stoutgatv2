@@ -6,12 +6,16 @@ These are easiest done by applying a small amount  of solder to one of the pads,
 Use the same procedure to anchor one pin down and then do the rest.
 3) Start installing diodes on the top ( or bottom if you are so inclined, just make sure of polarity ). 
 If you are using 3 pin switches and a fingerlonger, do not install D31 (by the ISO enter key) yet, as this will interfere. 
-Also note , D31 faces opposite to all the rest of the diodes. Save your diode legs for installing the Blackpill.
+Also note , D31 faces opposite to all the rest of the diodes. 
+![D31](https://raw.githubusercontent.com/vattern/stoutgatv2/master/D31.png)
+
+Save your diode legs for installing the Blackpill.
 
 **ISO Steps**
 
 4) Choose your layout, and start populating switches from the top downwards , leave the enter key till last as it will interfere if you are using a fingerlonger.
 Populate SW49 and SW50 in the left Shift positions, and SW45 on the right.
+Leave enter ![enter]( https://raw.githubusercontent.com/vattern/stoutgatv2/master/SW45.png) till last .
 
 
 
